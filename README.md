@@ -1,6 +1,6 @@
 # UCA-3DAL
 
-## UCA-3DAL: A Unified Contrastive Framework with Test-Time Adaptation for Robust 3D Anomaly Localization
+CODE for PAPER: [UCA-3DAL: A Unified Contrastive Framework with Test-Time Adaptation for Robust 3D Anomaly Localization](https://www.researchgate.net/publication/398446535_A_Unified_Contrastive_Framework_with_Test-Time_Adaptation_for_Robust_3D_Anomaly_Localization)
 
 This folder contains a clean, self-contained implementation of **UCA-3DAL** (CPE + CPONet + Geo-TTA) for 3D point cloud anomaly localization on **AnomalyShapeNet**, **Real3D-AD** and **IEC3D-AD**. It is designed to be uploaded as an independent GitHub repository.
 
@@ -213,4 +213,5 @@ If you find this project helpful for your research, please consider citing the U
   booktitle = {...},
   year    = {2025}
 }
+
 ```
